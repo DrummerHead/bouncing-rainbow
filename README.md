@@ -15,3 +15,9 @@ Song 'Dennye' from the album 'Safafa' by [Jellica](http://www.8bitpeoples.com/di
 ## Inspiration
 
 [Demoscene](http://en.wikipedia.org/wiki/Demoscene)
+
+## Notice
+
+If you fork this you will also need a folder at root called 'audio' and inside it this song: http://mcdlr.com/bouncing-rainbow/audio/8bp123-01-jellica-dennye.mp3
+
+If you don't see the player is because the client doesn't support mp3 format, yelp!
