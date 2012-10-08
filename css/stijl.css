@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 1em;
+  background-color: #eee;
+}
+canvas {
+  display: block;
+  padding: .5em;
+  margin: 0 auto;
+  width: 888px;
+  height: 584px;
+  box-shadow: 0 0 26px #fff, 0 0 14px #fff;
+  background-color: #fff;
+}
+#controls {
+  width: 52px;
+  height: 52px;
+  position: absolute;
+  top: 188px;
+  right: 2%;
+  background-image: url('../img/controls.png');
+  background-repeat: no-repeat;
+  cursor: pointer;
+}
+.play {
+  background-position: 0 0;
+}
+.pause {
+  background-position: 0 -56px;
+}
